@@ -7,4 +7,8 @@
     <string name="question4">ドラえもんは常に地面から浮いている</string>
     <string name="hint_maru">マルだよ</string>
     <string name="hint_batu">バツだよ</string>
+    <string name="hint_cannot_show">もう使ったよ</string>
+    <string name="feedback_correct">正解！</string>
+    <string name="feedback_mistake">不正解・・・</string>
+    <string name="result_text">%1$d問中%2$d問正解しました！</string>
 </resources>
