@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MarubatuApp</string>
     <string name="hint_button_text">ヒント</string>
+    <string name="question1">iPhoneアプリを開発する統合環境はZcodeである</string>
+    <string name="question2">Xcode画面の右側にはユーティリティーズがある</string>
+    <string name="question3">UILabelは文字列を表示する際に利用する</string>
+    <string name="question4">ドラえもんは常に地面から浮いている</string>
+    <string name="hint_maru">マルだよ</string>
+    <string name="hint_batu">バツだよ</string>
 </resources>
